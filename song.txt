@@ -1,4 +1,7 @@
-Hello world
+Hello World
 It is Fariza
 demo testing
 the git functions
+
+two more lines 
+to check gui updates
