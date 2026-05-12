@@ -5,7 +5,6 @@ the git functions
 
 two more lines 
 to check gui updates
-
 new verse to check revert
 functionality from git bash
 -----------------------------------------
