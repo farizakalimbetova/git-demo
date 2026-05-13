@@ -3,10 +3,6 @@ It is Fariza
 demo testing
 the git functions
 
-two more lines 
-to check gui updates
-new verse to check revert
-functionality from git bash
 -----------------------------------------
 
 updates for the new branch
