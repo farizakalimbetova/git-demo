@@ -8,3 +8,5 @@ to check gui updates
 new verse to check revert
 functionality from git bash
 -----------------------------------------
+
+updates for the new branch
