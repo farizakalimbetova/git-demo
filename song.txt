@@ -11,3 +11,6 @@ updates for the new branch
 ----------------------
 
 Other update to another branch
+
+---------
+adding the third couplet for feature branch
