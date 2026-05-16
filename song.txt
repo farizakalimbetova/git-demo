@@ -16,3 +16,6 @@ Other update to another branch
 second couplet for master branch
 ---------
 adding the third couplet for feature branch
+
+----
+checking tags
